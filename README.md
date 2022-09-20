@@ -9,3 +9,5 @@ The goal of this project is to replicate a streaming platform's home page by pul
 **Down arrow key:** Focus down a row  
 
 This project uses HTML, Javascript, and CSS.
+
+Try a [live demo](https://mandeed.github.io/living-room-streaming/)!
